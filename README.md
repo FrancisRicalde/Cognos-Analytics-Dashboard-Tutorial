@@ -19,7 +19,7 @@ Neste tutorial, você vai gerar insights a partir dos dados dos produtos vendido
 
 2.	Vamos começar obtendo dados para o tutorial. 
 
-•	Há muitos ativos de dados de amostra no IBM®Cognos Analytics Community que podem ser usados no IBM Cognos Analytics, incluindo aquele que é usado neste tutorial. 
+•	Há muitos ativos de dados de amostra no IBM Cognos Analytics Community que podem ser usados no IBM Cognos Analytics, incluindo aquele que é usado neste tutorial. 
 
 •	No Cognos Analytics, dê um toque em Procurar. 
 
